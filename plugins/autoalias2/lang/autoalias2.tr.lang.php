@@ -22,9 +22,9 @@ $L['info_desc'] = 'Eğer boş bırakılırsa sayfa başlığını otomatik olara
  */
 
 $L['cfg_translit'] = 'Sadece latif karakterler';
-$L['cfg_prepend_id'] = 'Ön NO:';
-$L['cfg_on_duplicate'] = 'Benzer bir alyans eklendiğinde sayfa numarasını önüne getir (Ön NO Kapalı olmalı)';
-$L['cfg_sep'] = 'Krlime Ayırıcı';
+$L['cfg_prepend_id'] = 'Ön Numara:';
+$L['cfg_on_duplicate'] = 'Benzer bir alyans eklendiğinde sayfa numarasını önüne getir (Ön Numara Kapalı olmalı)';
+$L['cfg_sep'] = 'Kelime Ayırıcı';
 $L['cfg_lowercase'] = 'Küçük Harf Kullan';
 
 /**
